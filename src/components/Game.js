@@ -32,6 +32,11 @@ try{
     console.log(err);
     // server = "http://localhost:8088/janus";
 }
+
+
+function test(){
+    console.log("test");
+}
 let gestureGameroom = null;
 let vroomHandle = null;
 let myroom = null;
